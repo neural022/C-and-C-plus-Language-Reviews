@@ -1,0 +1,8 @@
+﻿  09_normal distribution with stock  simulation.cpp
+d:\c language by master kao\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation.cpp(17): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation.cpp(32): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation.cpp(36): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation\09_normal distribution with stock  simulation.cpp(29): warning C4101: 'y': 未參考的區域變數
+  09_normal distribution with stock  simulation.vcxproj -> D:\C Language by Master KAO\09_normal distribution with stock  simulation\Debug\09_normal distribution with stock  simulation.exe
+  09_normal distribution with stock  simulation.vcxproj -> D:\C Language by Master KAO\09_normal distribution with stock  simulation\Debug\09_normal distribution with stock  simulation.pdb (Full PDB)

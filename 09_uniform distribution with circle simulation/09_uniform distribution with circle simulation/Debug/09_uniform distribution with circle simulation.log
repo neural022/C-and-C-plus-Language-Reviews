@@ -1,0 +1,7 @@
+﻿  09_uniform distribution with circle simulation.cpp
+d:\c language by master kao\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation.cpp(18): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation.cpp(25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c language by master kao\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation\09_uniform distribution with circle simulation.cpp(15): warning C4101: 's': 未參考的區域變數
+  09_uniform distribution with circle simulation.vcxproj -> D:\C Language by Master KAO\09_uniform distribution with circle simulation\Debug\09_uniform distribution with circle simulation.exe
+  09_uniform distribution with circle simulation.vcxproj -> D:\C Language by Master KAO\09_uniform distribution with circle simulation\Debug\09_uniform distribution with circle simulation.pdb (Full PDB)

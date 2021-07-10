@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  02_variable-ascii-read.cpp
+d:\c language by master kao\02_variable-ascii-read\02_variable-ascii-read\02_variable-ascii-read.cpp(21): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c language by master kao\02_variable-ascii-read\02_variable-ascii-read\02_variable-ascii-read.cpp(32): warning C4778: 'printf' : 未結束的格式字串 '%\n'
+  02_variable-ascii-read.vcxproj -> D:\C Language by Master KAO\02_variable-ascii-read\Debug\02_variable-ascii-read.exe
+  02_variable-ascii-read.vcxproj -> D:\C Language by Master KAO\02_variable-ascii-read\Debug\02_variable-ascii-read.pdb (Full PDB)

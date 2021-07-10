@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  10_file read and write.cpp
+d:\c language by master kao\10_file read and write\10_file read and write\10_file read and write.cpp(14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  10_file read and write.vcxproj -> D:\C Language by Master KAO\10_file read and write\Debug\10_file read and write.exe
+  10_file read and write.vcxproj -> D:\C Language by Master KAO\10_file read and write\Debug\10_file read and write.pdb (Full PDB)
