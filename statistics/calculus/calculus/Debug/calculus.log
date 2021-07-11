@@ -1,0 +1,7 @@
+﻿  calculus.cpp
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\calculus\calculus\calculus.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\calculus\calculus\calculus.cpp(14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\calculus\calculus\calculus.cpp(19): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\calculus\calculus\calculus.cpp(20): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  calculus.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\calculus\Debug\calculus.exe
+  calculus.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\calculus\Debug\calculus.pdb (Full PDB)

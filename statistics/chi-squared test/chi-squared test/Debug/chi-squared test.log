@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  chi-squared test.cpp
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\chi-squared test\chi-squared test\chi-squared test.cpp(9): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\chi-squared test\chi-squared test\chi-squared test.cpp(15): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\chi-squared test\chi-squared test\chi-squared test.cpp(32): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  chi-squared test.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\chi-squared test\Debug\chi-squared test.exe
+  chi-squared test.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\chi-squared test\Debug\chi-squared test.pdb (Full PDB)

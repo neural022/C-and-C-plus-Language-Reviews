@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  penghu wind power with statistics.cpp
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\penghu wind power with statistics\penghu wind power with statistics\penghu wind power with statistics.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\penghu wind power with statistics\penghu wind power with statistics\penghu wind power with statistics.cpp(22): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\penghu wind power with statistics\penghu wind power with statistics\penghu wind power with statistics.cpp(27): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\penghu wind power with statistics\penghu wind power with statistics\penghu wind power with statistics.cpp(32): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\penghu wind power with statistics\penghu wind power with statistics\penghu wind power with statistics.cpp(37): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  penghu wind power with statistics.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\penghu wind power with statistics\Debug\penghu wind power with statistics.exe
+  penghu wind power with statistics.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\penghu wind power with statistics\Debug\penghu wind power with statistics.pdb (Full PDB)

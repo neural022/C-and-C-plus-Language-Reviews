@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  p-value test with coin toss.cpp
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\p-value test with coin toss\p-value test with coin toss\p-value test with coin toss.cpp(11): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\p-value test with coin toss\p-value test with coin toss\p-value test with coin toss.cpp(23): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\p-value test with coin toss\p-value test with coin toss\p-value test with coin toss.cpp(31): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\p-value test with coin toss\p-value test with coin toss\p-value test with coin toss.cpp(40): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  p-value test with coin toss.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\p-value test with coin toss\Debug\p-value test with coin toss.exe
+  p-value test with coin toss.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\p-value test with coin toss\Debug\p-value test with coin toss.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  f test.cpp
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\f test\f test\f test.cpp(10): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\f test\f test\f test.cpp(16): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\asuna\desktop\c-language-by-master-kao\statistics\f test\f test\f test.cpp(39): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  f test.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\f test\Debug\f test.exe
+  f test.vcxproj -> C:\Users\Asuna\Desktop\C-Language-by-Master-KAO\statistics\f test\Debug\f test.pdb (Full PDB)
