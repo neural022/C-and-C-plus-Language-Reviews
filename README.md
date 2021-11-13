@@ -1,1 +1,1 @@
-# C Language by Master KAO
+# C/C++ Language
